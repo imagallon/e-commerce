@@ -5,7 +5,7 @@
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 This project is just the backend of an E-Commerce app. This would essentially help a storefront keep track of product inventory. I built this project to get more familiar with Sequalize and using an ORM approach. This helps keep better track of the associations among products, categories, and tags.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
@@ -26,6 +26,8 @@ npm install sequelize
 You need to have insomnia core to test all the routes
 
 ## Usage
+
+Link to Demo Video:https://drive.google.com/file/d/1ktfFppiBsAiSfDVuUBnoZbI6t3CBFBL0/view
 
 Link to Deployed app:https://e-commerceiem.herokuapp.com/
 
